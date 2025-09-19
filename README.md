@@ -1,23 +1,57 @@
-# Cpp-and-Algorithm-and-DataStruct
+#  Cpp-and-Algorithm-and-DataStruct
 
 #### 介绍
 C++语言，以及用C++描述的算法和数据结构的源码。
 
-#### 软件架构
-软件架构说明
+题目来源： 
 
+OJ题网站
 
-#### 安装教程
+1. http://ybt.ssoier.cn:8088/ 
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+以及信息学奥赛一本通系列的书籍：
+
+> 第五版（2018年12月第8次印刷）
+>
+> 第四版（2018年7月第4次印刷）
+>
+> 第二版初赛篇（2018年8月第2次印刷）
+>
+> 提高篇（2018年8月第2次印刷）
+
+2. https://pintia.cn/problem-sets/dashboard
+
+浙江大学陈越老师指定的天梯赛相关题库。
+
+3. https://www.luogu.com.cn/
+
+即洛谷。
+
+4. https://www.nowcoder.com/
+
+即牛客网。
+
+5. https://www.educoder.net/
+
+国防科技大学等高校赞助的在线教育平台头歌，学校指定刷题+考试平台。
+
+6. https://leetcode.cn/problemset/
+
+力扣，全球程序员都在做的偏向面试和实习的OJ网站。
+
+7. https://www.acwing.com/problem/
+
+acwing在线题库。
+
+8. https://codeforces.com/
+
+全球最大的算法竞赛网站，IP来自俄罗斯。
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  代码只用于解决代码文本关联的问题，并不具备软件构架。
+2.  代码可能于编写时因技术等原因存在一些潜在问题，欢迎指出。
+3.  该仓库仅用于学习交流，不可用于其他商业用途。
 
 #### 参与贡献
 
